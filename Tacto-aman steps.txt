@@ -12,3 +12,4 @@
 12.Go to the Stock Section and Check the Orders.(Here we only put no. of carton is it correct?)
 (If we put short pieces=10 at the time of inbound orders update but in stock it show full qty is it correct )
 13.Add the products through Manage Products.
+\14. New line added
