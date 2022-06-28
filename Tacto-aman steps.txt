@@ -1,0 +1,14 @@
+1.Add Warehouse.
+2.Add sub-admin.
+3.Add Data Entry Managers.
+4.Add Supervisor.
+5.Add Warehouse Managers.
+6. Assign Warehouse to the All users(sub-admin,Data Entry Managers,Supervisor,Warehouse Managers).
+7. Add floor/racks/column in Warehouse.
+8.Add Client.
+9.Add Sub-Client
+10.Create Inbound Orders.
+11.Update the Inbound Order(Update the order through Order through Order Managment Section)
+12.Go to the Stock Section and Check the Orders.(Here we only put no. of carton is it correct?)
+(If we put short pieces=10 at the time of inbound orders update but in stock it show full qty is it correct )
+13.Add the products through Manage Products.
